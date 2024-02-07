@@ -1,0 +1,8 @@
+.head{
+    margin-top: 80px;
+    background-color: rgb(159, 116, 116);
+}
+
+.todoLists{
+    cursor: pointer;
+}
